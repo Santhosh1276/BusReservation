@@ -1,5 +1,5 @@
 # BusReservationSystem
-/*
+
 It is a mini project.
 It consist of three classes
 Main class - for executing the code
